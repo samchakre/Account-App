@@ -1,0 +1,6 @@
+{
+  "name": "Sales, Purchase & Inventory Management",
+  "description": "Sales, Purchase, Category, and Inventory Management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
